@@ -10,7 +10,7 @@ We test our code in Python 3.7, CUDA 11.1, cuDNN 8, and PyTorch 1.7.1. We provid
 CPKD is a knowledge distillation framework for the segmentation of positive obstacles which can transfer knowledge between two feature maps with different resolutions and channel numbers
 
 # Code & Dataset
-The Code and our released dataset will be uploaded in one week.
+**The Code and our released dataset will be uploaded in one week.**
 
 
 
