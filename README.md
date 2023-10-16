@@ -38,7 +38,7 @@ $ unzip -d .. dataset.zip
 ```
 * To reproduce our results, you need to download our pre-trained weights.
 ```
-$ (You should be in the MAFNet folder)
+$ (You should be in the CPKD folder)
 $ mkdir ./weights_backup
 $ cd ./weights_backup
 $ (download our preprocessed weights.zip in this folder)
