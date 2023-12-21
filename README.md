@@ -13,10 +13,10 @@ We test our code in Python 3.7, CUDA 11.1, cuDNN 8, and PyTorch 1.7.1. We provid
 
 # Dataset
 
-You can download our release dataset **NO-4K** from [Here]() with password **cpkd**. 
+You can download our release dataset **NO-4K** from [here](https://pan.baidu.com/s/19WOJel26clK3g8_T964Yhg?pwd=cpkd). 
 
 # Pretrained weights
-The pre-trained weights of the teacher network and student network of CPKD can be downloaded from [here](https://labsun-me.polyu.edu.hk/zfeng/MAFNet/).
+The pre-trained weights of the teacher network and student network of CPKD can be downloaded from [here](https://pan.baidu.com/s/1vUTpQpe9u_8rmsxsDOvZiA?pwd=cpkd).
 
 # Usage
 * Clone this repo
