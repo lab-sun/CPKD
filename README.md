@@ -1,5 +1,3 @@
-
-
 # CPKD-PyTorch
 The official pytorch implementation of **CPKD: Channel and Position-wise Knowledge Distillation for Segmentation of Negative Obstacles**. 
 
@@ -71,12 +69,16 @@ Note: Please change the smoothing factor in the Tensorboard webpage to `0.999`, 
 # Citation
 If you use CPKD in your academic work, please cite:
 ```
-
+@INPROCEEDINGS{feng2023cpkd,
+  author={Zhen Feng and Yanning Guo and Yuxiang Sun},
+  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={CPKD: Channel and Position-Wise Knowledge Distillation for Segmentation of Road Negative Obstacles}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={3110-3115},
+  doi={10.1109/ITSC57777.2023.10422225}}
 ```
 
 # Acknowledgement
 Some of the codes are borrowed from [RTFNet](https://github.com/yuxiangsun/RTFNet) and [MAFNet](https://github.com/lab-sun/MAFNet)
-
-Contact: yx.sun@polyu.edu.hk
-
-Website: https://yuxiangsun.github.io/
